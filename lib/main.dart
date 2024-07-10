@@ -1,35 +1,23 @@
+///
+/// - Cubit
+/// - RxDart
+/// - Unit testing
+/// - Algo
+/// - Bugfixing
+/// - Advanced Flutter
+/// three task, medium, medium, medium/hard
+library;
+
 import 'package:flutter/material.dart';
+import 'package:flutter_recruitment_task/app.dart';
+import 'package:flutter_recruitment_task/repositories/products_repository.dart';
 
 void main() {
-  runApp(const MyApp());
-}
+  final productsRepository = MockedProductsRepository();
 
-class MyApp extends StatelessWidget {
-  const MyApp({super.key});
-
-  @override
-  Widget build(BuildContext context) {
-    return const MaterialApp(
-      home: MyHomePage(),
-    );
-  }
-}
-
-class MyHomePage extends StatelessWidget {
-  const MyHomePage({super.key});
-
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(title: const Text('Title')),
-      body: const Center(
-        child: Column(
-          children: [
-            FlutterLogo(),
-            FlutterLogo(),
-          ],
-        ),
-      ),
-    );
-  }
+  runApp(
+    App(
+      productsRepository: productsRepository,
+    ),
+  );
 }
