@@ -1,0 +1,440 @@
+{
+  "pageNumber": 3,
+  "pageSize": 10,
+  "totalElements": 50,
+  "totalPages": 3,
+  "products": [
+    {
+      "id": "620",
+      "name": "Lipton Zioła Świata Melisa z Granatem 20 Torebek",
+      "description": "",
+      "available": true,
+      "price": {
+        "sellerId": "seller455",
+        "sellerName": "seller455",
+        "skuId": "10618",
+        "regularPrice": {
+          "amount": 5.49,
+          "currency": "PLN"
+        },
+        "normalizedPrice": {
+          "amount": 5.49,
+          "currency": "PLN",
+          "normalizedUnit": "piece",
+          "unitLabel": "/szt."
+        },
+        "isBest": false,
+        "isSponsored": false,
+        "subtitle": ""
+      },
+      "mainImage": "",
+      "tags": [],
+      "sellerId": "seller455",
+      "isFavourite": false,
+      "isBlurred": false,
+      "variablePrice": false
+    },
+    {
+      "id": "1231",
+      "name": "One Day More Musli Spice Tuba 450g (3pak)",
+      "description": "",
+      "available": true,
+      "price": {
+        "sellerId": "seller646",
+        "sellerName": "seller646",
+        "skuId": "11246",
+        "regularPrice": {
+          "amount": 42,
+          "currency": "PLN"
+        },
+        "normalizedPrice": {
+          "amount": 9.33,
+          "currency": "PLN",
+          "normalizedUnit": "piece",
+          "unitLabel": "/100g"
+        },
+        "isBest": false,
+        "isSponsored": false,
+        "subtitle": ""
+      },
+      "mainImage": "",
+      "tags": [],
+      "sellerId": "seller646",
+      "isFavourite": false,
+      "isBlurred": false,
+      "variablePrice": false
+    },
+    {
+      "id": "62",
+      "name": "Woseba Kawa ziarnista Bio Organic 500 g",
+      "description": "",
+      "available": true,
+      "price": {
+        "sellerId": "seller075",
+        "sellerName": "seller075",
+        "skuId": "10062",
+        "regularPrice": {
+          "amount": 6,
+          "currency": "PLN"
+        },
+        "normalizedPrice": {
+          "amount": 1.2,
+          "currency": "PLN",
+          "normalizedUnit": "piece",
+          "unitLabel": "/100g"
+        },
+        "isBest": false,
+        "isSponsored": false,
+        "subtitle": ""
+      },
+      "mainImage": "",
+      "tags": [
+        {
+          "color": "#1A25B422",
+          "label": "BIO",
+          "tag": "bio",
+          "labelColorValue": "#25B422",
+          "position": "regular"
+        },
+        {
+          "color": "#1AEC0677",
+          "label": "NOWOŚĆ",
+          "tag": "new",
+          "labelColorValue": "#EC0677",
+          "position": "regular"
+        },
+        {
+          "color": "#1A25B422",
+          "label": "ORGANICZNE",
+          "tag": "organic",
+          "labelColorValue": "#25B422",
+          "position": "regular"
+        }
+      ],
+      "sellerId": "seller075",
+      "isFavourite": false,
+      "isBlurred": false,
+      "variablePrice": false
+    },
+    {
+      "id": "1210",
+      "name": "Lime świeże bio 1kg",
+      "description": "",
+      "available": true,
+      "price": {
+        "sellerId": "seller722",
+        "sellerName": "seller722",
+        "skuId": "11224",
+        "regularPrice": {
+          "amount": 12.99,
+          "currency": "PLN"
+        },
+        "normalizedPrice": {
+          "amount": 12.99,
+          "currency": "PLN",
+          "normalizedUnit": "piece",
+          "unitLabel": "/kg"
+        },
+        "isBest": false,
+        "isSponsored": false,
+        "subtitle": ""
+      },
+      "mainImage": "",
+      "tags": [
+        {
+          "color": "#1AF6B409",
+          "label": "BEZ KONSERWANTÓW",
+          "tag": "no-preservatives",
+          "labelColorValue": "#F6B409",
+          "position": "regular"
+        }
+      ],
+      "sellerId": "seller722",
+      "isFavourite": false,
+      "isBlurred": false,
+      "variablePrice": false
+    },
+    {
+      "id": "1207",
+      "name": "Pomarańcza soczysta świeża 1kg",
+      "description": "",
+      "available": true,
+      "price": {
+        "sellerId": "seller722",
+        "sellerName": "seller722",
+        "skuId": "11221",
+        "regularPrice": {
+          "amount": 24.99,
+          "currency": "PLN"
+        },
+        "normalizedPrice": {
+          "amount": 24.99,
+          "currency": "PLN",
+          "normalizedUnit": "piece",
+          "unitLabel": "/kg"
+        },
+        "isBest": false,
+        "isSponsored": false,
+        "subtitle": ""
+      },
+      "mainImage": "",
+      "tags": [
+        {
+          "color": "#1AF6B409",
+          "label": "BEZ KONSERWANTÓW",
+          "tag": "no-preservatives",
+          "labelColorValue": "#F6B409",
+          "position": "regular"
+        }
+      ],
+      "sellerId": "seller722",
+      "isFavourite": false,
+      "isBlurred": false,
+      "variablePrice": false
+    },
+    {
+      "id": "642",
+      "name": "Lipton Herbata Funkcjonalna Fitnessa 20 Torebek",
+      "description": "",
+      "available": true,
+      "price": {
+        "sellerId": "seller455",
+        "sellerName": "seller455",
+        "skuId": "10640",
+        "regularPrice": {
+          "amount": 5.49,
+          "currency": "PLN"
+        },
+        "normalizedPrice": {
+          "amount": 5.49,
+          "currency": "PLN",
+          "normalizedUnit": "piece",
+          "unitLabel": "/szt."
+        },
+        "isBest": false,
+        "isSponsored": false,
+        "subtitle": ""
+      },
+      "mainImage": "",
+      "tags": [],
+      "sellerId": "seller455",
+      "isFavourite": false,
+      "isBlurred": false,
+      "variablePrice": false
+    },
+    {
+      "id": "53",
+      "name": "Illy Kawa ziarnista Intenso 250 g",
+      "description": "",
+      "available": true,
+      "price": {
+        "sellerId": "seller646",
+        "sellerName": "seller646",
+        "skuId": "10053",
+        "regularPrice": {
+          "amount": 8,
+          "currency": "PLN"
+        },
+        "normalizedPrice": {
+          "amount": 3.2,
+          "currency": "PLN",
+          "normalizedUnit": "piece",
+          "unitLabel": "/100g"
+        },
+        "isBest": false,
+        "isSponsored": false,
+        "subtitle": ""
+      },
+      "mainImage": "",
+      "tags": [
+        {
+          "color": "#1AEC0677",
+          "label": "NOWOŚĆ",
+          "tag": "new",
+          "labelColorValue": "#EC0677",
+          "position": "regular"
+        },
+        {
+          "color": "#1A98C93C",
+          "label": "VEGAN",
+          "tag": "vegan",
+          "labelColorValue": "#98C93C",
+          "position": "regular"
+        },
+        {
+          "color": "#1A22B490",
+          "label": "VEGE",
+          "tag": "vegetarian",
+          "labelColorValue": "#22B490",
+          "position": "regular"
+        }
+      ],
+      "sellerId": "seller646",
+      "isFavourite": false,
+      "isBlurred": false,
+      "variablePrice": false
+    },
+    {
+      "id": "1229",
+      "name": "ODM Musli Codzienne Tuba 500g + Refill Pack 2x500g",
+      "description": "",
+      "available": true,
+      "price": {
+        "sellerId": "seller075",
+        "sellerName": "seller075",
+        "skuId": "11243",
+        "regularPrice": {
+          "amount": 44,
+          "currency": "PLN"
+        },
+        "promotionalPrice": {
+          "amount": 42,
+          "currency": "PLN"
+        },
+        "normalizedPrice": {
+          "amount": 4.4,
+          "currency": "PLN",
+          "normalizedUnit": "piece",
+          "unitLabel": "/100g"
+        },
+        "promotionalNormalizedPrice": {
+          "amount": 4.2,
+          "currency": "PLN",
+          "normalizedUnit": "piece",
+          "unitLabel": "/100g"
+        },
+        "omnibusFrom": "2023-10-24",
+        "omnibusPrice": {
+          "amount": 44,
+          "currency": "PLN"
+        },
+        "omnibusLabel": "Najniższa cena od wprowadzenia towaru",
+        "isBest": false,
+        "isSponsored": false,
+        "subtitle": ""
+      },
+      "mainImage": "",
+      "tags": [
+        {
+          "color": "#EC0677",
+          "label": "%",
+          "tag": "promotion",
+          "labelColorValue": "#FFFFFF",
+          "position": "image-up-left"
+        }
+      ],
+      "sellerId": "seller075",
+      "isFavourite": false,
+      "isBlurred": false,
+      "variablePrice": false
+    },
+    {
+      "id": "16",
+      "name": "MK Cafe Premium Kawa mielona  50 0 g",
+      "description": "",
+      "available": true,
+      "price": {
+        "sellerId": "seller646",
+        "sellerName": "seller646",
+        "skuId": "10016",
+        "regularPrice": {
+          "amount": 22,
+          "currency": "PLN"
+        },
+        "normalizedPrice": {
+          "amount": 22,
+          "currency": "PLN",
+          "normalizedUnit": "piece",
+          "unitLabel": "/g"
+        },
+        "isBest": true,
+        "isSponsored": false,
+        "subtitle": ""
+      },
+      "mainImage": "",
+      "tags": [
+        {
+          "color": "#00A42E",
+          "gradient": {
+            "colors": [
+              "#FFCB04",
+              "#00A42E"
+            ],
+            "stops": [
+              0,
+              0.8
+            ],
+            "begin": [
+              -1,
+              -1
+            ],
+            "end": [
+              1,
+              1
+            ]
+          },
+          "label": "BEST",
+          "tag": "best",
+          "labelColorValue": "#FFFFFF",
+          "position": "image-up-left"
+        }
+      ],
+      "sellerId": "seller646",
+      "isFavourite": false,
+      "isBlurred": false,
+      "variablePrice": false
+    },
+    {
+      "id": "50",
+      "name": "Costa Coffee Kawa ziarnista The Bright Blend 1 kg",
+      "description": "",
+      "available": true,
+      "price": {
+        "sellerId": "seller722",
+        "sellerName": "seller722",
+        "skuId": "10050",
+        "regularPrice": {
+          "amount": 1,
+          "currency": "PLN"
+        },
+        "normalizedPrice": {
+          "amount": 1,
+          "currency": "PLN",
+          "normalizedUnit": "piece",
+          "unitLabel": "/kg"
+        },
+        "isBest": false,
+        "isSponsored": false,
+        "subtitle": ""
+      },
+      "mainImage": "",
+      "tags": [
+        {
+          "color": "#1AF6B409",
+          "label": "BEZ KONSERWANTÓW",
+          "tag": "no-preservatives",
+          "labelColorValue": "#F6B409",
+          "position": "regular"
+        },
+        {
+          "color": "#1A25B422",
+          "label": "ORGANICZNE",
+          "tag": "organic",
+          "labelColorValue": "#25B422",
+          "position": "regular"
+        },
+        {
+          "color": "#1A5591D8",
+          "label": "BEZ CUKRU",
+          "tag": "sugar-free",
+          "labelColorValue": "#5591D8",
+          "position": "regular"
+        }
+      ],
+      "sellerId": "seller722",
+      "isFavourite": false,
+      "isBlurred": false,
+      "variablePrice": false
+    }
+  ]
+}

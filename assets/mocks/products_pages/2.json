@@ -1,0 +1,798 @@
+{
+  "pageNumber": 2,
+  "pageSize": 20,
+  "totalElements": 50,
+  "totalPages": 3,
+  "products": [
+    {
+      "id": "913",
+      "name": "Tymbark sok 100% pomarańcza mango 1 l",
+      "description": "",
+      "available": true,
+      "price": {
+        "sellerId": "seller347",
+        "sellerName": "seller347",
+        "skuId": "10916",
+        "regularPrice": {
+          "amount": 6.6,
+          "currency": "PLN"
+        },
+        "normalizedPrice": {
+          "amount": 6.6,
+          "currency": "PLN",
+          "normalizedUnit": "piece",
+          "unitLabel": "/l"
+        },
+        "isBest": false,
+        "isSponsored": false,
+        "subtitle": ""
+      },
+      "mainImage": "",
+      "tags": [],
+      "sellerId": "seller347",
+      "isFavourite": false,
+      "isBlurred": false,
+      "variablePrice": false
+    },
+    {
+      "id": "63",
+      "name": "Starbucks Kawa ziarnista Pike Place Roast 200 g",
+      "description": "",
+      "available": true,
+      "price": {
+        "sellerId": "seller075",
+        "sellerName": "seller075",
+        "skuId": "10063",
+        "regularPrice": {
+          "amount": 7,
+          "currency": "PLN"
+        },
+        "normalizedPrice": {
+          "amount": 3.5,
+          "currency": "PLN",
+          "normalizedUnit": "piece",
+          "unitLabel": "/100g"
+        },
+        "isBest": false,
+        "isSponsored": false,
+        "subtitle": ""
+      },
+      "mainImage": "",
+      "tags": [
+        {
+          "color": "#1A25B422",
+          "label": "BIO",
+          "tag": "bio",
+          "labelColorValue": "#25B422",
+          "position": "regular"
+        },
+        {
+          "color": "#1AF0771F",
+          "label": "HIPOALERGICZNY",
+          "tag": "hypoallergenic",
+          "labelColorValue": "#F0771F",
+          "position": "regular"
+        }
+      ],
+      "sellerId": "seller075",
+      "isFavourite": false,
+      "isBlurred": false,
+      "variablePrice": false
+    },
+    {
+      "id": "936",
+      "name": "Basia Mąka tortowa extra typ 450 1 kg",
+      "description": "",
+      "available": true,
+      "price": {
+        "sellerId": "seller347",
+        "sellerName": "seller347",
+        "skuId": "10939",
+        "regularPrice": {
+          "amount": 0.11,
+          "currency": "PLN"
+        },
+        "normalizedPrice": {
+          "amount": 0.11,
+          "currency": "PLN",
+          "normalizedUnit": "piece",
+          "unitLabel": "/kg"
+        },
+        "isBest": false,
+        "isSponsored": false,
+        "subtitle": ""
+      },
+      "mainImage": "",
+      "tags": [],
+      "sellerId": "seller347",
+      "isFavourite": false,
+      "isBlurred": false,
+      "variablePrice": false
+    },
+    {
+      "id": "594",
+      "name": "Lipton Zielona Herbata Cytyna & Melisa 20 Piramidek",
+      "description": "",
+      "available": true,
+      "price": {
+        "sellerId": "seller455",
+        "sellerName": "seller455",
+        "skuId": "10592",
+        "regularPrice": {
+          "amount": 6.99,
+          "currency": "PLN"
+        },
+        "normalizedPrice": {
+          "amount": 6.99,
+          "currency": "PLN",
+          "normalizedUnit": "piece",
+          "unitLabel": "/szt."
+        },
+        "isBest": false,
+        "isSponsored": false,
+        "subtitle": ""
+      },
+      "mainImage": "",
+      "tags": [],
+      "sellerId": "seller455",
+      "isFavourite": false,
+      "isBlurred": false,
+      "variablePrice": false
+    },
+    {
+      "id": "56",
+      "name": "Lavazza Kawa ziarnista Tierra Colombia 1 kg",
+      "description": "",
+      "available": true,
+      "price": {
+        "sellerId": "seller075",
+        "sellerName": "seller075",
+        "skuId": "10056",
+        "regularPrice": {
+          "amount": 35,
+          "currency": "PLN"
+        },
+        "normalizedPrice": {
+          "amount": 35,
+          "currency": "PLN",
+          "normalizedUnit": "piece",
+          "unitLabel": "/kg"
+        },
+        "isBest": false,
+        "isSponsored": false,
+        "subtitle": ""
+      },
+      "mainImage": "",
+      "tags": [
+        {
+          "color": "#1AF0771F",
+          "label": "HIPOALERGICZNY",
+          "tag": "hypoallergenic",
+          "labelColorValue": "#F0771F",
+          "position": "regular"
+        },
+        {
+          "color": "#1AF6B409",
+          "label": "BEZ KONSERWANTÓW",
+          "tag": "no-preservatives",
+          "labelColorValue": "#F6B409",
+          "position": "regular"
+        },
+        {
+          "color": "#1A55B8D8",
+          "label": "BEZ PARABENÓW",
+          "tag": "without-parabens",
+          "labelColorValue": "#55B8D8",
+          "position": "regular"
+        }
+      ],
+      "sellerId": "seller075",
+      "isFavourite": false,
+      "isBlurred": false,
+      "variablePrice": false
+    },
+    {
+      "id": "44",
+      "name": "Lavazza Kawa ziarnista Qualita Oro 500 g",
+      "description": "",
+      "available": true,
+      "price": {
+        "sellerId": "seller722",
+        "sellerName": "seller722",
+        "skuId": "10044",
+        "regularPrice": {
+          "amount": 32,
+          "currency": "PLN"
+        },
+        "normalizedPrice": {
+          "amount": 6.4,
+          "currency": "PLN",
+          "normalizedUnit": "piece",
+          "unitLabel": "/100g"
+        },
+        "isBest": false,
+        "isSponsored": false,
+        "subtitle": ""
+      },
+      "mainImage": "",
+      "tags": [
+        {
+          "color": "#1A55B8D8",
+          "label": "BEZ PARABENÓW",
+          "tag": "without-parabens",
+          "labelColorValue": "#55B8D8",
+          "position": "regular"
+        }
+      ],
+      "sellerId": "seller722",
+      "isFavourite": false,
+      "isBlurred": false,
+      "variablePrice": false
+    },
+    {
+      "id": "43",
+      "name": "Tchibo Kawa ziarnista  Barista Caffe Crema 1 kg",
+      "description": "",
+      "available": true,
+      "price": {
+        "sellerId": "seller075",
+        "sellerName": "seller075",
+        "skuId": "10043",
+        "regularPrice": {
+          "amount": 11,
+          "currency": "PLN"
+        },
+        "normalizedPrice": {
+          "amount": 11,
+          "currency": "PLN",
+          "normalizedUnit": "piece",
+          "unitLabel": "/kg"
+        },
+        "isBest": true,
+        "isSponsored": false,
+        "subtitle": ""
+      },
+      "mainImage": "",
+      "tags": [
+        {
+          "color": "#00A42E",
+          "gradient": {
+            "colors": [
+              "#FFCB04",
+              "#00A42E"
+            ],
+            "stops": [
+              0,
+              0.8
+            ],
+            "begin": [
+              -1,
+              -1
+            ],
+            "end": [
+              1,
+              1
+            ]
+          },
+          "label": "BEST",
+          "tag": "best",
+          "labelColorValue": "#FFFFFF",
+          "position": "image-up-left"
+        }
+      ],
+      "sellerId": "seller075",
+      "isFavourite": false,
+      "isBlurred": false,
+      "variablePrice": false
+    },
+    {
+      "id": "71",
+      "name": "Kimbo Kawa ziarnista Aroma Intenso 1  kg",
+      "description": "",
+      "available": true,
+      "price": {
+        "sellerId": "seller075",
+        "sellerName": "seller075",
+        "skuId": "10071",
+        "regularPrice": {
+          "amount": 30,
+          "currency": "PLN"
+        },
+        "normalizedPrice": {
+          "amount": 30,
+          "currency": "PLN",
+          "normalizedUnit": "piece",
+          "unitLabel": "/szt."
+        },
+        "isBest": false,
+        "isSponsored": false,
+        "subtitle": ""
+      },
+      "mainImage": "",
+      "tags": [
+        {
+          "color": "#1AEF404A",
+          "label": "BEZ GLUTENU",
+          "tag": "gluten-free",
+          "labelColorValue": "#EF404A",
+          "position": "regular"
+        },
+        {
+          "color": "#1AAE55D8",
+          "label": "BEZ LAKTOZY",
+          "tag": "lactose-free",
+          "labelColorValue": "#AE55D8",
+          "position": "regular"
+        },
+        {
+          "color": "#1A5591D8",
+          "label": "BEZ CUKRU",
+          "tag": "sugar-free",
+          "labelColorValue": "#5591D8",
+          "position": "regular"
+        },
+        {
+          "color": "#1A98C93C",
+          "label": "VEGAN",
+          "tag": "vegan",
+          "labelColorValue": "#98C93C",
+          "position": "regular"
+        },
+        {
+          "color": "#1A22B490",
+          "label": "VEGE",
+          "tag": "vegetarian",
+          "labelColorValue": "#22B490",
+          "position": "regular"
+        }
+      ],
+      "sellerId": "seller075",
+      "isFavourite": false,
+      "isBlurred": false,
+      "variablePrice": false
+    },
+    {
+      "id": "55",
+      "name": "Costa Coffee Kawa ziarnista Signature Blend 500 g testing something",
+      "description": "",
+      "available": true,
+      "price": {
+        "sellerId": "seller722",
+        "sellerName": "seller722",
+        "skuId": "10055",
+        "regularPrice": {
+          "amount": 1,
+          "currency": "PLN"
+        },
+        "normalizedPrice": {
+          "amount": 0.2,
+          "currency": "PLN",
+          "normalizedUnit": "piece",
+          "unitLabel": "/100g"
+        },
+        "isBest": false,
+        "isSponsored": false,
+        "subtitle": ""
+      },
+      "mainImage": "",
+      "tags": [
+        {
+          "color": "#1A55B8D8",
+          "label": "BEZ PARABENÓW",
+          "tag": "without-parabens",
+          "labelColorValue": "#55B8D8",
+          "position": "regular"
+        }
+      ],
+      "sellerId": "seller722",
+      "isFavourite": false,
+      "isBlurred": false,
+      "variablePrice": false
+    },
+    {
+      "id": "70",
+      "name": "MK Cafe Kawa ziarnista Crema 1kg",
+      "description": "",
+      "available": true,
+      "price": {
+        "sellerId": "seller646",
+        "sellerName": "seller646",
+        "skuId": "10070",
+        "regularPrice": {
+          "amount": 21,
+          "currency": "PLN"
+        },
+        "normalizedPrice": {
+          "amount": 21,
+          "currency": "PLN",
+          "normalizedUnit": "piece",
+          "unitLabel": "/kg"
+        },
+        "isBest": false,
+        "isSponsored": false,
+        "subtitle": ""
+      },
+      "mainImage": "",
+      "tags": [
+        {
+          "color": "#1A55B8D8",
+          "label": "BEZ GMO",
+          "tag": "non-gmo",
+          "labelColorValue": "#55B8D8",
+          "position": "regular"
+        },
+        {
+          "color": "#1A25B422",
+          "label": "ORGANICZNE",
+          "tag": "organic",
+          "labelColorValue": "#25B422",
+          "position": "regular"
+        }
+      ],
+      "sellerId": "seller646",
+      "isFavourite": false,
+      "isBlurred": false,
+      "variablePrice": false
+    },
+    {
+      "id": "60",
+      "name": "Dallmayr Kawa ziarnista Caffe Crema Grande 1 kg",
+      "description": "",
+      "available": true,
+      "price": {
+        "sellerId": "seller722",
+        "sellerName": "seller722",
+        "skuId": "10060",
+        "regularPrice": {
+          "amount": 1,
+          "currency": "PLN"
+        },
+        "normalizedPrice": {
+          "amount": 1,
+          "currency": "PLN",
+          "normalizedUnit": "piece",
+          "unitLabel": "/kg"
+        },
+        "isBest": false,
+        "isSponsored": false,
+        "subtitle": ""
+      },
+      "mainImage": "",
+      "tags": [
+        {
+          "color": "#1AEF404A",
+          "label": "BEZ GLUTENU",
+          "tag": "gluten-free",
+          "labelColorValue": "#EF404A",
+          "position": "regular"
+        },
+        {
+          "color": "#1AAE55D8",
+          "label": "BEZ LAKTOZY",
+          "tag": "lactose-free",
+          "labelColorValue": "#AE55D8",
+          "position": "regular"
+        },
+        {
+          "color": "#1A5591D8",
+          "label": "BEZ CUKRU",
+          "tag": "sugar-free",
+          "labelColorValue": "#5591D8",
+          "position": "regular"
+        }
+      ],
+      "sellerId": "seller722",
+      "isFavourite": false,
+      "isBlurred": false,
+      "variablePrice": false
+    },
+    {
+      "id": "23",
+      "name": "Davidoff Fine Aroma Kawa palona mielona 250 g",
+      "description": "",
+      "available": true,
+      "price": {
+        "sellerId": "seller722",
+        "sellerName": "seller722",
+        "skuId": "10023",
+        "regularPrice": {
+          "amount": 49,
+          "currency": "PLN"
+        },
+        "normalizedPrice": {
+          "amount": 19.6,
+          "currency": "PLN",
+          "normalizedUnit": "piece",
+          "unitLabel": "/100g"
+        },
+        "isBest": false,
+        "isSponsored": false,
+        "subtitle": ""
+      },
+      "mainImage": "",
+      "tags": [],
+      "sellerId": "seller722",
+      "isFavourite": false,
+      "isBlurred": false,
+      "variablePrice": false
+    },
+    {
+      "id": "77",
+      "name": "Lavazza Kawa ziarnista Tierra Brazil Espresso 1kg",
+      "description": "",
+      "available": true,
+      "price": {
+        "sellerId": "seller646",
+        "sellerName": "seller646",
+        "skuId": "10077",
+        "regularPrice": {
+          "amount": 43,
+          "currency": "PLN"
+        },
+        "normalizedPrice": {
+          "amount": 43,
+          "currency": "PLN",
+          "normalizedUnit": "piece",
+          "unitLabel": "/kg"
+        },
+        "isBest": false,
+        "isSponsored": false,
+        "subtitle": ""
+      },
+      "mainImage": "",
+      "tags": [],
+      "sellerId": "seller646",
+      "isFavourite": false,
+      "isBlurred": false,
+      "variablePrice": false
+    },
+    {
+      "id": "32",
+      "name": "Costa Coffee Kawa mielona  200 g",
+      "description": "",
+      "available": true,
+      "price": {
+        "sellerId": "seller075",
+        "sellerName": "seller075",
+        "skuId": "10032",
+        "regularPrice": {
+          "amount": 23,
+          "currency": "PLN"
+        },
+        "normalizedPrice": {
+          "amount": 11.5,
+          "currency": "PLN",
+          "normalizedUnit": "piece",
+          "unitLabel": "/100g"
+        },
+        "isBest": false,
+        "isSponsored": false,
+        "subtitle": ""
+      },
+      "mainImage": "",
+      "tags": [],
+      "sellerId": "seller075",
+      "isFavourite": false,
+      "isBlurred": false,
+      "variablePrice": false
+    },
+    {
+      "id": "150",
+      "name": "Bialetti Kawa Mielona Perfetto Moka Cioccolato 250g",
+      "description": "",
+      "available": true,
+      "price": {
+        "sellerId": "seller455",
+        "sellerName": "seller455",
+        "skuId": "10150",
+        "regularPrice": {
+          "amount": 24.99,
+          "currency": "PLN"
+        },
+        "normalizedPrice": {
+          "amount": 10,
+          "currency": "PLN",
+          "normalizedUnit": "piece",
+          "unitLabel": "/100g"
+        },
+        "isBest": false,
+        "isSponsored": false,
+        "subtitle": ""
+      },
+      "mainImage": "",
+      "tags": [],
+      "sellerId": "seller455",
+      "isFavourite": false,
+      "isBlurred": false,
+      "variablePrice": false
+    },
+    {
+      "id": "45",
+      "name": "Movenpick Kawa ziarnista Caffe Crema 1 kg",
+      "description": "",
+      "available": true,
+      "price": {
+        "sellerId": "seller722",
+        "sellerName": "seller722",
+        "skuId": "10045",
+        "regularPrice": {
+          "amount": 31,
+          "currency": "PLN"
+        },
+        "normalizedPrice": {
+          "amount": 31,
+          "currency": "PLN",
+          "normalizedUnit": "piece",
+          "unitLabel": "/kg"
+        },
+        "isBest": false,
+        "isSponsored": false,
+        "subtitle": ""
+      },
+      "mainImage": "",
+      "tags": [
+        {
+          "color": "#1A55B8D8",
+          "label": "BEZ PARABENÓW",
+          "tag": "without-parabens",
+          "labelColorValue": "#55B8D8",
+          "position": "regular"
+        }
+      ],
+      "sellerId": "seller722",
+      "isFavourite": false,
+      "isBlurred": false,
+      "variablePrice": false
+    },
+    {
+      "id": "59",
+      "name": "Segafredo Kawa ziarnista Intermezzo 1 kg",
+      "description": "",
+      "available": true,
+      "price": {
+        "sellerId": "seller075",
+        "sellerName": "seller075",
+        "skuId": "10059",
+        "regularPrice": {
+          "amount": 9,
+          "currency": "PLN"
+        },
+        "normalizedPrice": {
+          "amount": 9,
+          "currency": "PLN",
+          "normalizedUnit": "piece",
+          "unitLabel": "/kg"
+        },
+        "isBest": false,
+        "isSponsored": false,
+        "subtitle": ""
+      },
+      "mainImage": "",
+      "tags": [
+        {
+          "color": "#1A25B422",
+          "label": "BIO",
+          "tag": "bio",
+          "labelColorValue": "#25B422",
+          "position": "regular"
+        },
+        {
+          "color": "#1AEC0677",
+          "label": "NOWOŚĆ",
+          "tag": "new",
+          "labelColorValue": "#EC0677",
+          "position": "regular"
+        }
+      ],
+      "sellerId": "seller075",
+      "isFavourite": false,
+      "isBlurred": false,
+      "variablePrice": false
+    },
+    {
+      "id": "61",
+      "name": "Starbucks Kawa ziarnista Blonde Roast Espresso  200 g",
+      "description": "",
+      "available": true,
+      "price": {
+        "sellerId": "seller075",
+        "sellerName": "seller075",
+        "skuId": "10061",
+        "regularPrice": {
+          "amount": 8,
+          "currency": "PLN"
+        },
+        "normalizedPrice": {
+          "amount": 4,
+          "currency": "PLN",
+          "normalizedUnit": "piece",
+          "unitLabel": "/100g"
+        },
+        "isBest": false,
+        "isSponsored": false,
+        "subtitle": ""
+      },
+      "mainImage": "",
+      "tags": [
+        {
+          "color": "#1A55B8D8",
+          "label": "BEZ GMO",
+          "tag": "non-gmo",
+          "labelColorValue": "#55B8D8",
+          "position": "regular"
+        },
+        {
+          "color": "#1A25B422",
+          "label": "ORGANICZNE",
+          "tag": "organic",
+          "labelColorValue": "#25B422",
+          "position": "regular"
+        }
+      ],
+      "sellerId": "seller075",
+      "isFavourite": false,
+      "isBlurred": false,
+      "variablePrice": false
+    },
+    {
+      "id": "917",
+      "name": "Woda źródlana Żywiec Zdrój niegazowany 1,5 l",
+      "description": "",
+      "available": true,
+      "price": {
+        "sellerId": "seller075",
+        "sellerName": "seller075",
+        "skuId": "10920",
+        "regularPrice": {
+          "amount": 10,
+          "currency": "PLN"
+        },
+        "normalizedPrice": {
+          "amount": 6.67,
+          "currency": "PLN",
+          "normalizedUnit": "piece",
+          "unitLabel": "/l"
+        },
+        "isBest": false,
+        "isSponsored": false,
+        "subtitle": ""
+      },
+      "mainImage": "",
+      "tags": [],
+      "sellerId": "seller075",
+      "isFavourite": false,
+      "isBlurred": false,
+      "variablePrice": false
+    },
+    {
+      "id": "1232",
+      "name": "OneDayMore Musli Premium 3xTuba 500g",
+      "description": "",
+      "available": true,
+      "price": {
+        "sellerId": "seller646",
+        "sellerName": "seller646",
+        "skuId": "11245",
+        "regularPrice": {
+          "amount": 55,
+          "currency": "PLN"
+        },
+        "normalizedPrice": {
+          "amount": 3.67,
+          "currency": "PLN",
+          "normalizedUnit": "piece",
+          "unitLabel": "/100g"
+        },
+        "isBest": false,
+        "isSponsored": false,
+        "subtitle": ""
+      },
+      "mainImage": "",
+      "tags": [],
+      "sellerId": "seller646",
+      "isFavourite": false,
+      "isBlurred": false,
+      "variablePrice": false
+    }
+  ]
+}
