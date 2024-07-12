@@ -4,7 +4,10 @@
 Aby wziąć udział w zadaniu rekrutacyjnym należy sforkować to repozytorium, wykonać zadania oraz wypushować swoje zmiany.
 
 Zadania mają zostać wykonane w ramach aplikacji, w której wyświetlamy listę produktów pobraną z zewnętrznego źródła.
+
 W zadaniach sprawdzimy prawidłowość rozwiązania, odporność na błędu, jakość kodu, jego czytelność, kreatywność oraz prostotę.
+
+Ta aplikacja nie jest połączona z backendem, ale miej z tyłu głowy kwestie performance oraz optymalizację.
 
 ### Zadanie 1.
 Zaimplementuj funkcjonalność wyszukiwania, która przefiltruje listę produktów na podstawie tego co wpisze użytkownik.
