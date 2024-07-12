@@ -7,8 +7,8 @@ part of 'products_page.dart';
 // **************************************************************************
 
 ProductsPage _$ProductsPageFromJson(Map<String, dynamic> json) => ProductsPage(
-      totalElements: (json['totalElements'] as num).toInt(),
-      pageNumber: (json['pageNumber'] as num?)?.toInt(),
+      totalPages: (json['totalPages'] as num).toInt(),
+      pageNumber: (json['pageNumber'] as num).toInt(),
       pageSize: (json['pageSize'] as num).toInt(),
       products: (json['products'] as List<dynamic>)
           .map((e) => Product.fromJson(e as Map<String, dynamic>))
@@ -19,7 +19,7 @@ Map<String, dynamic> _$ProductsPageToJson(ProductsPage instance) =>
     <String, dynamic>{
       'pageNumber': instance.pageNumber,
       'pageSize': instance.pageSize,
-      'totalElements': instance.totalElements,
+      'totalPages': instance.totalPages,
       'products': instance.products,
     };
 
@@ -29,7 +29,7 @@ Product _$ProductFromJson(Map<String, dynamic> json) => Product(
       mainImage: json['mainImage'] as String,
       description: json['description'] as String,
       available: json['available'] as bool,
-      isFavorite: json['isFavorite'] as bool,
+      isFavorite: json['isFavorite'] as bool?,
       isBlurred: json['isBlurred'] as bool?,
       sellerId: json['sellerId'] as String,
       tags: (json['tags'] as List<dynamic>)

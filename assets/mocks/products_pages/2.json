@@ -1,7 +1,6 @@
 {
   "pageNumber": 2,
   "pageSize": 20,
-  "totalElements": 50,
   "totalPages": 3,
   "products": [
     {
@@ -9,7 +8,7 @@
       "name": "Tymbark sok 100% pomarańcza mango 1 l",
       "description": "",
       "available": true,
-      "price": {
+      "offer": {
         "sellerId": "seller347",
         "sellerName": "seller347",
         "skuId": "10916",
@@ -39,7 +38,7 @@
       "name": "Starbucks Kawa ziarnista Pike Place Roast 200 g",
       "description": "",
       "available": true,
-      "price": {
+      "offer": {
         "sellerId": "seller075",
         "sellerName": "seller075",
         "skuId": "10063",
@@ -63,14 +62,14 @@
           "color": "#1A25B422",
           "label": "BIO",
           "tag": "bio",
-          "labelColorValue": "#25B422",
+          "labelColor": "#25B422",
           "position": "regular"
         },
         {
           "color": "#1AF0771F",
           "label": "HIPOALERGICZNY",
           "tag": "hypoallergenic",
-          "labelColorValue": "#F0771F",
+          "labelColor": "#F0771F",
           "position": "regular"
         }
       ],
@@ -84,7 +83,7 @@
       "name": "Basia Mąka tortowa extra typ 450 1 kg",
       "description": "",
       "available": true,
-      "price": {
+      "offer": {
         "sellerId": "seller347",
         "sellerName": "seller347",
         "skuId": "10939",
@@ -114,7 +113,7 @@
       "name": "Lipton Zielona Herbata Cytyna & Melisa 20 Piramidek",
       "description": "",
       "available": true,
-      "price": {
+      "offer": {
         "sellerId": "seller455",
         "sellerName": "seller455",
         "skuId": "10592",
@@ -144,7 +143,7 @@
       "name": "Lavazza Kawa ziarnista Tierra Colombia 1 kg",
       "description": "",
       "available": true,
-      "price": {
+      "offer": {
         "sellerId": "seller075",
         "sellerName": "seller075",
         "skuId": "10056",
@@ -168,21 +167,21 @@
           "color": "#1AF0771F",
           "label": "HIPOALERGICZNY",
           "tag": "hypoallergenic",
-          "labelColorValue": "#F0771F",
+          "labelColor": "#F0771F",
           "position": "regular"
         },
         {
           "color": "#1AF6B409",
           "label": "BEZ KONSERWANTÓW",
           "tag": "no-preservatives",
-          "labelColorValue": "#F6B409",
+          "labelColor": "#F6B409",
           "position": "regular"
         },
         {
           "color": "#1A55B8D8",
           "label": "BEZ PARABENÓW",
           "tag": "without-parabens",
-          "labelColorValue": "#55B8D8",
+          "labelColor": "#55B8D8",
           "position": "regular"
         }
       ],
@@ -196,7 +195,7 @@
       "name": "Lavazza Kawa ziarnista Qualita Oro 500 g",
       "description": "",
       "available": true,
-      "price": {
+      "offer": {
         "sellerId": "seller722",
         "sellerName": "seller722",
         "skuId": "10044",
@@ -220,7 +219,7 @@
           "color": "#1A55B8D8",
           "label": "BEZ PARABENÓW",
           "tag": "without-parabens",
-          "labelColorValue": "#55B8D8",
+          "labelColor": "#55B8D8",
           "position": "regular"
         }
       ],
@@ -234,7 +233,7 @@
       "name": "Tchibo Kawa ziarnista  Barista Caffe Crema 1 kg",
       "description": "",
       "available": true,
-      "price": {
+      "offer": {
         "sellerId": "seller075",
         "sellerName": "seller075",
         "skuId": "10043",
@@ -276,7 +275,7 @@
           },
           "label": "BEST",
           "tag": "best",
-          "labelColorValue": "#FFFFFF",
+          "labelColor": "#FFFFFF",
           "position": "image-up-left"
         }
       ],
@@ -290,7 +289,7 @@
       "name": "Kimbo Kawa ziarnista Aroma Intenso 1  kg",
       "description": "",
       "available": true,
-      "price": {
+      "offer": {
         "sellerId": "seller075",
         "sellerName": "seller075",
         "skuId": "10071",
@@ -314,35 +313,35 @@
           "color": "#1AEF404A",
           "label": "BEZ GLUTENU",
           "tag": "gluten-free",
-          "labelColorValue": "#EF404A",
+          "labelColor": "#EF404A",
           "position": "regular"
         },
         {
           "color": "#1AAE55D8",
           "label": "BEZ LAKTOZY",
           "tag": "lactose-free",
-          "labelColorValue": "#AE55D8",
+          "labelColor": "#AE55D8",
           "position": "regular"
         },
         {
           "color": "#1A5591D8",
           "label": "BEZ CUKRU",
           "tag": "sugar-free",
-          "labelColorValue": "#5591D8",
+          "labelColor": "#5591D8",
           "position": "regular"
         },
         {
           "color": "#1A98C93C",
           "label": "VEGAN",
           "tag": "vegan",
-          "labelColorValue": "#98C93C",
+          "labelColor": "#98C93C",
           "position": "regular"
         },
         {
           "color": "#1A22B490",
           "label": "VEGE",
           "tag": "vegetarian",
-          "labelColorValue": "#22B490",
+          "labelColor": "#22B490",
           "position": "regular"
         }
       ],
@@ -356,7 +355,7 @@
       "name": "Costa Coffee Kawa ziarnista Signature Blend 500 g testing something",
       "description": "",
       "available": true,
-      "price": {
+      "offer": {
         "sellerId": "seller722",
         "sellerName": "seller722",
         "skuId": "10055",
@@ -380,7 +379,7 @@
           "color": "#1A55B8D8",
           "label": "BEZ PARABENÓW",
           "tag": "without-parabens",
-          "labelColorValue": "#55B8D8",
+          "labelColor": "#55B8D8",
           "position": "regular"
         }
       ],
@@ -394,7 +393,7 @@
       "name": "MK Cafe Kawa ziarnista Crema 1kg",
       "description": "",
       "available": true,
-      "price": {
+      "offer": {
         "sellerId": "seller646",
         "sellerName": "seller646",
         "skuId": "10070",
@@ -418,14 +417,14 @@
           "color": "#1A55B8D8",
           "label": "BEZ GMO",
           "tag": "non-gmo",
-          "labelColorValue": "#55B8D8",
+          "labelColor": "#55B8D8",
           "position": "regular"
         },
         {
           "color": "#1A25B422",
           "label": "ORGANICZNE",
           "tag": "organic",
-          "labelColorValue": "#25B422",
+          "labelColor": "#25B422",
           "position": "regular"
         }
       ],
@@ -439,7 +438,7 @@
       "name": "Dallmayr Kawa ziarnista Caffe Crema Grande 1 kg",
       "description": "",
       "available": true,
-      "price": {
+      "offer": {
         "sellerId": "seller722",
         "sellerName": "seller722",
         "skuId": "10060",
@@ -463,21 +462,21 @@
           "color": "#1AEF404A",
           "label": "BEZ GLUTENU",
           "tag": "gluten-free",
-          "labelColorValue": "#EF404A",
+          "labelColor": "#EF404A",
           "position": "regular"
         },
         {
           "color": "#1AAE55D8",
           "label": "BEZ LAKTOZY",
           "tag": "lactose-free",
-          "labelColorValue": "#AE55D8",
+          "labelColor": "#AE55D8",
           "position": "regular"
         },
         {
           "color": "#1A5591D8",
           "label": "BEZ CUKRU",
           "tag": "sugar-free",
-          "labelColorValue": "#5591D8",
+          "labelColor": "#5591D8",
           "position": "regular"
         }
       ],
@@ -491,7 +490,7 @@
       "name": "Davidoff Fine Aroma Kawa palona mielona 250 g",
       "description": "",
       "available": true,
-      "price": {
+      "offer": {
         "sellerId": "seller722",
         "sellerName": "seller722",
         "skuId": "10023",
@@ -521,7 +520,7 @@
       "name": "Lavazza Kawa ziarnista Tierra Brazil Espresso 1kg",
       "description": "",
       "available": true,
-      "price": {
+      "offer": {
         "sellerId": "seller646",
         "sellerName": "seller646",
         "skuId": "10077",
@@ -551,7 +550,7 @@
       "name": "Costa Coffee Kawa mielona  200 g",
       "description": "",
       "available": true,
-      "price": {
+      "offer": {
         "sellerId": "seller075",
         "sellerName": "seller075",
         "skuId": "10032",
@@ -581,7 +580,7 @@
       "name": "Bialetti Kawa Mielona Perfetto Moka Cioccolato 250g",
       "description": "",
       "available": true,
-      "price": {
+      "offer": {
         "sellerId": "seller455",
         "sellerName": "seller455",
         "skuId": "10150",
@@ -611,7 +610,7 @@
       "name": "Movenpick Kawa ziarnista Caffe Crema 1 kg",
       "description": "",
       "available": true,
-      "price": {
+      "offer": {
         "sellerId": "seller722",
         "sellerName": "seller722",
         "skuId": "10045",
@@ -635,7 +634,7 @@
           "color": "#1A55B8D8",
           "label": "BEZ PARABENÓW",
           "tag": "without-parabens",
-          "labelColorValue": "#55B8D8",
+          "labelColor": "#55B8D8",
           "position": "regular"
         }
       ],
@@ -649,7 +648,7 @@
       "name": "Segafredo Kawa ziarnista Intermezzo 1 kg",
       "description": "",
       "available": true,
-      "price": {
+      "offer": {
         "sellerId": "seller075",
         "sellerName": "seller075",
         "skuId": "10059",
@@ -673,14 +672,14 @@
           "color": "#1A25B422",
           "label": "BIO",
           "tag": "bio",
-          "labelColorValue": "#25B422",
+          "labelColor": "#25B422",
           "position": "regular"
         },
         {
           "color": "#1AEC0677",
           "label": "NOWOŚĆ",
           "tag": "new",
-          "labelColorValue": "#EC0677",
+          "labelColor": "#EC0677",
           "position": "regular"
         }
       ],
@@ -694,7 +693,7 @@
       "name": "Starbucks Kawa ziarnista Blonde Roast Espresso  200 g",
       "description": "",
       "available": true,
-      "price": {
+      "offer": {
         "sellerId": "seller075",
         "sellerName": "seller075",
         "skuId": "10061",
@@ -718,14 +717,14 @@
           "color": "#1A55B8D8",
           "label": "BEZ GMO",
           "tag": "non-gmo",
-          "labelColorValue": "#55B8D8",
+          "labelColor": "#55B8D8",
           "position": "regular"
         },
         {
           "color": "#1A25B422",
           "label": "ORGANICZNE",
           "tag": "organic",
-          "labelColorValue": "#25B422",
+          "labelColor": "#25B422",
           "position": "regular"
         }
       ],
@@ -739,7 +738,7 @@
       "name": "Woda źródlana Żywiec Zdrój niegazowany 1,5 l",
       "description": "",
       "available": true,
-      "price": {
+      "offer": {
         "sellerId": "seller075",
         "sellerName": "seller075",
         "skuId": "10920",
@@ -769,7 +768,7 @@
       "name": "OneDayMore Musli Premium 3xTuba 500g",
       "description": "",
       "available": true,
-      "price": {
+      "offer": {
         "sellerId": "seller646",
         "sellerName": "seller646",
         "skuId": "11245",

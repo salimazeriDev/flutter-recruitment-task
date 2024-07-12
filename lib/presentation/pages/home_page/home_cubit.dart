@@ -28,10 +28,14 @@ class HomeCubit extends Cubit<HomeState> {
 
   final ProductsRepository _productsRepository;
   final List<ProductsPage> _pages = [];
+  var _param = GetProductsPage(pageNumber: 1);
 
-  Future<void> getPage(GetProductsPage param) async {
+  Future<void> getNextPage() async {
     try {
-      final newPage = await _productsRepository.getProductsPage(param);
+      final totalPages = _pages.lastOrNull?.totalPages;
+      if (totalPages != null && _param.pageNumber > totalPages) return;
+      final newPage = await _productsRepository.getProductsPage(_param);
+      _param = _param.increasePageNumber();
       _pages.add(newPage);
       emit(Loaded(pages: _pages));
     } catch (e) {

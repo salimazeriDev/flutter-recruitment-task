@@ -1,7 +1,6 @@
 {
   "pageNumber": 1,
   "pageSize": 20,
-  "totalElements": 101,
   "totalPages": 3,
   "products": [
     {
@@ -319,7 +318,7 @@
         }
       ],
       "sellerId": "seller646",
-      "isFavorite": false,
+      "isFavorite": true,
       "isBlurred": false
     },
     {
@@ -431,7 +430,7 @@
         }
       ],
       "sellerId": "seller646",
-      "isFavorite": false,
+      "isFavorite": true,
       "isBlurred": false
     },
     {
@@ -740,7 +739,7 @@
       ],
       "sellerId": "seller722",
       "isFavorite": false,
-      "isBlurred": false
+      "isBlurred": true
     },
     {
       "id": "36",
