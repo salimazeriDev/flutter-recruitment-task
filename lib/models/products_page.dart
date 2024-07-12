@@ -5,7 +5,7 @@ part 'products_page.g.dart';
 @JsonSerializable()
 class ProductsPage {
   ProductsPage({
-    required this.totalElements,
+    required this.totalPages,
     required this.pageNumber,
     required this.pageSize,
     required this.products,
@@ -14,9 +14,9 @@ class ProductsPage {
   factory ProductsPage.fromJson(Map<String, dynamic> json) =>
       _$ProductsPageFromJson(json);
 
-  final int? pageNumber;
+  final int pageNumber;
   final int pageSize;
-  final int totalElements;
+  final int totalPages;
   final List<Product> products;
 }
 
@@ -43,7 +43,7 @@ class Product {
   final String mainImage;
   final String description;
   final bool available;
-  final bool isFavorite;
+  final bool? isFavorite;
   final bool? isBlurred;
   final String sellerId;
   final List<Tag> tags;

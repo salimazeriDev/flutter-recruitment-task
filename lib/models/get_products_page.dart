@@ -4,4 +4,8 @@ class GetProductsPage {
   });
 
   final int pageNumber;
+
+  GetProductsPage increasePageNumber() {
+    return GetProductsPage(pageNumber: pageNumber + 1);
+  }
 }
