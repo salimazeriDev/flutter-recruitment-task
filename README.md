@@ -5,7 +5,9 @@ Aby wziąć udział w zadaniu rekrutacyjnym należy sforkować to repozytorium, 
 
 Zadania mają zostać wykonane w ramach aplikacji, w której wyświetlamy listę produktów pobraną z zewnętrznego źródła.
 
-W zadaniach sprawdzimy prawidłowość rozwiązania, odporność na błędu, jakość kodu, jego czytelność, kreatywność oraz prostotę.
+W zadaniach sprawdzimy prawidłowość rozwiązania, odporność na błędy, jakość kodu, jego czytelność, kreatywność oraz prostotę.
+
+Możesz używać zewnętrznych jeżeli uznasz to za zasadne.
 
 Ta aplikacja nie jest połączona z backendem, ale miej z tyłu głowy kwestie performance oraz optymalizację.
 
@@ -26,11 +28,9 @@ W aplikacji jest błąd, za każdym przeładowaniem Widgetów zmienia się kolor
 ### Zadanie 3.
 W ramach rozwoju aplikacji chcemy, aby HomePage otwierał się i scrollował do konkretnego produktu na podstawie podanego id produktu lub skuId oferty.
 
-Należy dodać opcjonalny parametr do ekranu HomePage który wyszuka produkt 
+Należy dodać opcjonalny parametr do ekranu HomePage który wyszuka produkt. Jeżeli produktu nie będzie na pierwszej stronie, należy od razu pobrać kolejną i tak dalej.
 
-(jeżeli produktu nie będzie na pierwszej stronie, należy od razu pobrać kolejną i tak dalej)
-
-Jeżeli produkt będzie dostępny to aplikacja powinna zescrollować do tego produktu i oznaczyć go w sposób zauważalny dla użytkownika - zmiana koloru, dodatkowy border, tutaj jest dowolność.
+Jeżeli produkt zostanie znaleziony to aplikacja powinna zescrollować do tego produktu i oznaczyć go w sposób zauważalny dla użytkownika - zmiana koloru, dodatkowy border, tutaj jest dowolność.
 
 ### Zadanie 4
 Zaimplementuj prosty ekran z filtrami dla listy produktów, po zaaplikowaniu filtrów aplikacja powinna wyświetlić tylko te produkty, które spełniaja podane filtry.
