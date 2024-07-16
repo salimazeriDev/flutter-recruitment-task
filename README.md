@@ -7,7 +7,7 @@ Zadania mają zostać wykonane w ramach aplikacji, w której wyświetlamy listę
 
 W zadaniach sprawdzimy prawidłowość rozwiązania, odporność na błędy, jakość kodu, jego czytelność, kreatywność oraz prostotę.
 
-Możesz używać zewnętrznych jeżeli uznasz to za zasadne.
+Możesz używać zewnętrznych paczek jeżeli uznasz to za zasadne.
 
 Ta aplikacja nie jest połączona z backendem, ale miej z tyłu głowy kwestie performance oraz optymalizację.
 
