@@ -12,27 +12,16 @@ Możesz używać zewnętrznych paczek jeżeli uznasz to za zasadne.
 Ta aplikacja nie jest połączona z backendem, ale miej z tyłu głowy kwestie performance oraz optymalizację.
 
 ### Zadanie 1.
-Zaimplementuj funkcjonalność wyszukiwania, która przefiltruje listę produktów na podstawie tego co wpisze użytkownik.
-
-Wynik ma opierać się na podstawie kilku pól:
-- nazwa produktu
-- opis produktu
-- label taga na poziomie produktu
-- label taga na poziomie oferty
-
-Wyszukanie ma być aplikowane za każdą zmianą inputa.
-
-### Zadanie 2.
 W aplikacji jest błąd, za każdym przeładowaniem Widgetów zmienia się kolor taga, należy to naprawić tak, aby tag zawsze miał swój początkowy kolor.
 
-### Zadanie 3.
+### Zadanie 2.
 W ramach rozwoju aplikacji chcemy, aby HomePage otwierał się i scrollował do konkretnego produktu na podstawie podanego id produktu lub skuId oferty.
 
 Należy dodać opcjonalny parametr do ekranu HomePage który wyszuka produkt. Jeżeli produktu nie będzie na pierwszej stronie, należy od razu pobrać kolejną i tak dalej.
 
 Jeżeli produkt zostanie znaleziony to aplikacja powinna zescrollować do tego produktu i oznaczyć go w sposób zauważalny dla użytkownika - zmiana koloru, dodatkowy border, tutaj jest dowolność.
 
-### Zadanie 4
+### Zadanie 3
 Zaimplementuj prosty ekran z filtrami dla listy produktów, po zaaplikowaniu filtrów aplikacja powinna wyświetlić tylko te produkty, które spełniaja podane filtry.
 
 To zadanie jest otwarte i wymaga kreatywności.
@@ -45,9 +34,6 @@ Przykładowe filtry:
  - Filtr po tagach
  - Filtr tylko ulubionych produktów
  - Filtry zakresu cen
-
-### Zadanie 5
-Stwórz unit testy dla HomeCubit.
 
 ## Running project
 This project uses Flutter in version 3.19.0
