@@ -16,7 +16,6 @@ class HomePage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const BigText('Products'),
-        bottom: const _SearchInput(),
       ),
       body: Padding(
         padding: _mainPadding,
@@ -28,25 +27,6 @@ class HomePage extends StatelessWidget {
               Loaded() => _LoadedWidget(state: state),
             };
           },
-        ),
-      ),
-    );
-  }
-}
-
-class _SearchInput extends StatelessWidget implements PreferredSizeWidget {
-  const _SearchInput();
-
-  @override
-  Size get preferredSize => const Size.fromHeight(50);
-
-  @override
-  Widget build(BuildContext context) {
-    return const Padding(
-      padding: _mainPadding,
-      child: TextField(
-        decoration: InputDecoration(
-          hintText: 'Search',
         ),
       ),
     );
