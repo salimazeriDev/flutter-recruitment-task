@@ -1,11 +1,3 @@
-///
-/// - Cubit
-/// - RxDart
-/// - Unit testing
-/// - Algo
-/// - Bugfixing
-/// - Advanced Flutter
-/// three task, medium, medium, medium/hard
 library;
 
 import 'package:flutter/material.dart';
